@@ -2,7 +2,7 @@ const { ObjectId } = require('mongodb');
 const { dbConn } = require("./connDb.js");
 const port = 3000;
 const ip = "192.168.178.58";
-const frontendPath = "C:/Users/Andreas/Desktop/harmonize github/harmonize/svelteFrontend/public/";
+const frontendPath = "C:/Users/Andreas/Desktop/github_harmonize/harmonize/svelteFrontend/public/";
 
 // Set up express
 const express = require('express');
